@@ -1,0 +1,70 @@
+{
+  "\u0000plugin-vue:export-helper": [],
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "../../../../../images/homePage.jpg": [
+    "/assets/index-CdbYS9ST.js",
+    "/assets/index-Cocoz_FO.css"
+  ],
+  "../../../../../images/logo.png": [],
+  "../../../../../images/logoFull.png": [
+    "/assets/index-CdbYS9ST.js",
+    "/assets/index-Cocoz_FO.css"
+  ],
+  "index.html": [],
+  "node_modules/@unhead/dom/dist/index.mjs": [],
+  "node_modules/@unhead/shared/dist/index.mjs": [],
+  "node_modules/@unhead/vue/dist/shared/vue.ziyDaVMR.mjs": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/hookable/dist/index.mjs": [],
+  "node_modules/unhead/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.5912142e.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.a009fbf1.mjs": [],
+  "node_modules/vue-router/dist/devtools-EWN81iOl.mjs": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "src/App.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/assets/global.css": [],
+  "src/components/NavBar.vue": [],
+  "src/components/NavBar.vue?vue&type=style&index=0&scoped=7f7308a7&lang.css": [],
+  "src/components/SiteFooter.vue": [],
+  "src/components/SiteFooter.vue?vue&type=script&setup=true&lang.ts": [],
+  "src/components/SiteFooter.vue?vue&type=style&index=0&scoped=b8f0e6d0&lang.css": [],
+  "src/main.ts": [],
+  "src/pages/index.vue": [
+    "/assets/index-CdbYS9ST.js",
+    "/assets/index-Cocoz_FO.css"
+  ],
+  "src/pages/index.vue?vue&type=style&index=0&scoped=2505b90e&lang.css": [
+    "/assets/index-CdbYS9ST.js",
+    "/assets/index-Cocoz_FO.css"
+  ],
+  "src/pages/privacy.vue": [
+    "/assets/privacy-Dm2l1IE9.js",
+    "/assets/privacy-BAMmgbkk.css"
+  ],
+  "src/pages/privacy.vue?vue&type=style&index=0&scoped=8aeb3cd4&lang.css": [
+    "/assets/privacy-Dm2l1IE9.js",
+    "/assets/privacy-BAMmgbkk.css"
+  ],
+  "src/pages/support.vue": [
+    "/assets/support-BDR9a2UV.js",
+    "/assets/support-r_q2zClb.css"
+  ],
+  "src/pages/support.vue?vue&type=style&index=0&scoped=26952d58&lang.css": [
+    "/assets/support-BDR9a2UV.js",
+    "/assets/support-r_q2zClb.css"
+  ],
+  "src/pages/terms.vue": [
+    "/assets/terms-BRON6CJJ.js",
+    "/assets/terms-BuONx4Eg.css"
+  ],
+  "src/pages/terms.vue?vue&type=style&index=0&scoped=791f219e&lang.css": [
+    "/assets/terms-BRON6CJJ.js",
+    "/assets/terms-BuONx4Eg.css"
+  ],
+  "src/routes.ts": []
+}
